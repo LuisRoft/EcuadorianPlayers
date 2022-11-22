@@ -15,6 +15,8 @@ https://github.com/LuisRoft/EcuadorianPlayers.git
 
 3. Paste:
 ![image](https://user-images.githubusercontent.com/91089863/201412440-d371be92-7e9b-411c-b6ab-cd58eeff2178.png)
+
+Download APK: https://github.com/LuisRoft/EcuadorianPlayers/releases/tag/1.0
 And ready 🥳, enjoy!
 
 
